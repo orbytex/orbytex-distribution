@@ -1,0 +1,25 @@
+# Ignore logs
+*.log
+
+# Ignore build folders
+dist/
+build/
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore project binaries/scripts
+orbytexengine
+robytwxsol.exe
+
